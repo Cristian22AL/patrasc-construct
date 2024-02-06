@@ -2,3 +2,24 @@
     color: darkred;
     font-style: italic;
 }
+*{
+    
+    font-family: 'Roboto', sans-serif;
+}
+/* navbar */
+.navbar-brand{
+   text-transform: uppercase; 
+   font-size: larger;
+   font-weight: 700;
+   letter-spacing: 1px;
+
+}
+.navbar-nav a{
+    text-transform: uppercase;
+    font-size:medium;
+    letter-spacing: 0.15px;
+}
+
+.navbar-nav a:hover{
+    color: orange;
+}
